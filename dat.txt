@@ -1,0 +1,2 @@
+Diego Godoy 1200 Contador 111
+Pedro Oracio 1800 rec_humanos 222
